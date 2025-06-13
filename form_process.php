@@ -148,7 +148,6 @@ if ($isSubmitted) {
         input[type="checkbox"],
         input[type="radio"] {
             accent-color: #F000B8;
-            /* --primary-color */
             cursor: pointer;
         }
 
