@@ -13,7 +13,7 @@ if ($isSubmitted) {
 ?>
 
 <!-- http://localhost:8888/shopping-mall/form_process.php -->
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 
 <head>
